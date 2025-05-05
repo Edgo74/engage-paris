@@ -1,7 +1,13 @@
-[build]
-  publish = "dist"
-  command = "vite build"
+# Netlify configuration for LandingCraft frontend
 
+[build]
+  # Command to build the frontend (Vite handles this)
+  command = "npm run build"
+  # The crucial setting: where the built files are located
+  publish = "dist/public"
+
+# Redirect rule for Single Page Applications (SPA)
+# This sends all requests to index.html so client-side routing can take over
 [[redirects]]
   from = "/*"
   to = "/index.html"
