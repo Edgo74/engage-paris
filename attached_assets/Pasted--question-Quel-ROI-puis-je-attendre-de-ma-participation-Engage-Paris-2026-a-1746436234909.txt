@@ -1,0 +1,44 @@
+  {
+      question: "Quel ROI puis-je attendre de ma participation à Engage Paris 2026 ?",
+      answer:
+        "Les participants aux éditions précédentes ont rapporté une moyenne de +18% d'amélioration de leur taux de rétention après application des stratégies présentées. Vous repartirez avec des frameworks concrets, des cas d'usage d'IA en CS, et un réseau de professionnels CS. Notre enquête post-événement 2025 a montré que 94% des participants ont implémenté au moins une stratégie apprise dans les 3 mois.",
+    },
+    {
+      question: "Comment fonctionne le tirage au sort pour gagner un accès streaming 2025 ?",
+      answer:
+        "En vous inscrivant via notre formulaire, vous participez automatiquement au tirage au sort pour gagner un accès gratuit à la version streaming de l'édition 2025 (valeur 299€). Le tirage aura lieu le 15 juin et les gagnants seront notifiés par email. L'accès streaming inclut toutes les conférences en direct ainsi que les replays et les supports exclusifs.",
+    },
+    {
+      question: "Quel niveau d'expérience est requis pour participer et en tirer profit ?",
+      answer:
+        "L'événement est structuré pour offrir de la valeur à tous les niveaux d'expertise CS. Les débutants profiteront des sessions fondamentales sur les métriques et processus CS, tandis que les experts apprécieront les cas d'études avancés et l'intégration de l'IA. Nous proposons un parcours personnalisé selon votre niveau et vos objectifs, communiqué une semaine avant l'événement.",
+    },
+    {
+      question: "Comment Engage Paris se différencie des autres conférences CS ?",
+      answer:
+        "Contrairement aux conférences génériques, Engage Paris est 100% dédié au Customer Success avec un focus sur l'opérationnel et l'impact business. Nos intervenants sont des praticiens (70% sont des leaders CS en poste) et non des consultants. Chaque session est évaluée sur son applicabilité immédiate. Notre ratio participant/intervenant de 15:1 permet des échanges personnalisés que les grands événements ne peuvent offrir.",
+    },
+    {
+      question: "Quel niveau de networking puis-je espérer durant l'événement ?",
+      answer:
+        "L'an dernier, les participants ont établi en moyenne 7 nouvelles connections professionnelles significatives. Nous facilitons activement le networking via notre appli dédiée permettant de planifier des rendez-vous 1:1, nos déjeuners thématiques et nos sessions de problem-solving en petits groupes. 65% des participants 2025 ont maintenu des échanges réguliers avec leurs nouveaux contacts après l'événement.",
+    },
+    {
+      question: "Comment puis-je convaincre mon entreprise de financer ma participation ?",
+      answer:
+        "Nous fournissons un document 'Justification de participation' téléchargeable après inscription, détaillant le ROI attendu, les compétences développées et les bénéfices spécifiques pour votre entreprise. Les participants précédents l'ont utilisé avec un taux d'approbation de 83%. Nous proposons également des tarifs dégressifs pour les équipes et des options de paiement flexible.",
+    },
+
+    {
+      question: "Puis-je venir avec un collègue de mon équipe ?",
+      answer:
+        "Bien sûr, tant que chaque personne fait une demande d’accès. Engage Paris est conçu pour favoriser l’alignement entre décisionnaires et opérationnels CS.",
+    },
+
+    {
+      question: "Mes données sont-elles en sécurité ?",
+      answer:
+        "Oui. Elles sont traitées de manière confidentielle et ne sont jamais revendues ni partagées à des tiers.",
+    },
+
+  ];

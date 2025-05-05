@@ -1,0 +1,41 @@
+/* Styles pour le carousel de sponsors avec animation CSS infinie */
+
+:root {
+  --carousel-animation-duration: 30s; /* Durée par défaut (desktop) */
+}
+
+.sponsor-carousel-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.logos-container {
+  display: flex;
+  gap: 20px;
+  animation: scroll var(--carousel-animation-duration) linear infinite;
+  /* Pas de transition pour éviter les sauts */
+  will-change: transform;
+}
+
+.logo-item {
+  flex-shrink: 0;
+}
+
+/* Animation de défilement sans réinitialisation perceptible */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    /* Décaler de la largeur exacte du premier ensemble de logos */
+    transform: translateX(calc(-100% / 4));
+  }
+}
+
+/* Animation plus rapide en version mobile */
+@media (max-width: 767px) {
+  :root {
+    --carousel-animation-duration: 20s;
+  }
+}
