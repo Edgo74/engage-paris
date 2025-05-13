@@ -71,7 +71,7 @@ const HeroBanner: React.FC = () => {
                 </div>
                 <div className="flex items-center w-full sm:w-auto justify-center">
                   <span className="bg-blue-600 text-white px-3 sm:px-5 py-1.5 sm:py-2 rounded-full font-bold text-sm sm:text-sm transition-all duration-300 hover:scale-105 hover:bg-blue-700 shadow-md flex items-center group whitespace-nowrap border border-white/20">
-                    Je m'inscris
+                    Accès streaming 2025
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="h-4 w-4 sm:h-4 sm:w-4 ml-1 group-hover:translate-x-1 transition-transform"
@@ -147,7 +147,7 @@ const HeroBanner: React.FC = () => {
                     className="relative px-6 sm:px-10 py-4 sm:py-5 rounded-full bg-primary hover:bg-blue-700 text-white font-bold text-sm sm:text-base shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 group-hover:scale-105 border-2 border-white/20"
                   >
                     <span className="mr-2 text-yellow-300">⭐</span>
-                    <span>Accès streaming 2025</span>
+                    <span>Réservez votre place 2026</span>
                     <span className="ml-2 inline-block transition-transform duration-300 group-hover:translate-x-2">
                       →
                     </span>
