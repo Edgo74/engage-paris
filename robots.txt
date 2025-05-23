@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engage-paris.netlify.app/sitemap.xml
